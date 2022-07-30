@@ -1,0 +1,178 @@
+/* header */
+.header-wraper{
+    background-color:#F6F8F9 ;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 100;
+
+}
+
+.logo{
+    font-size: 13px;
+    color: #FA6980;
+    font-weight: bold;
+}
+.nav-item{
+    display: inline-block;
+    font-size: 11px;
+    color: #343638;
+    font-weight: bold;
+    
+}
+.myphoto{
+    border-radius: 150px;
+    width: 30px;
+    
+}
+
+.navigation{
+    display: inline-block;
+    margin-left: 50px;
+    word-spacing: 50px;
+}
+
+/* section */
+.section{
+    margin-top: 100px;
+}
+.container{
+    width: 1300px;
+    margin: 0 auto;
+   
+    
+}
+.title{
+    font-size: 24px;
+    color: #202124 ;
+    margin-left: auto;
+    font-weight: bold;
+}
+.blocks{
+   margin-top: 40px;
+}
+
+.leftblock{
+    width: 365px;
+    display: inline-block;
+    
+}
+
+.middleblock{
+    width: 365px;
+    display: inline-block;
+}
+
+.rightblock{
+    width: 365px;
+    display: inline-block;
+}
+
+.image-wrapper{
+    position: relative;
+}
+.image-text{
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    color: white;
+}
+.text-wrapper{
+    padding: 40px 30px;
+}
+.timeicon{
+    width: 15px;
+    padding-top: 20px;
+
+}
+.timecheck{
+    color:rgb(228, 222, 222)
+}
+.blocktext{
+    color:rgb(228, 222, 222) ;
+}
+
+/* section2 */
+.section2{
+    margin-top: 100px;
+}
+
+.title2{
+    font-size: 24px;
+    font-weight: bold;
+    color: #202124;
+    margin-left: 290px;
+}
+.blocks2{
+    padding-left: 290px;
+    
+    
+    
+}
+.left-block{
+    display: inline-block;
+}
+
+.img1{
+    position: relative;
+    margin-top: 38px;
+}
+
+.image-text2{
+    position: absolute;
+    color: white;
+    top: 215px;
+    left: 380px;
+    
+}
+.forest{
+    margin-top: 38px;
+}
+
+.right-block{
+    display: inline-block;
+    padding-left: 40px;
+    
+}
+.ph1{
+    margin-top: 130px;
+}
+/* footer */
+.footer-icon{
+    width: 20px;
+    
+    
+}
+.footericon{
+    display: inline-block;
+    margin-left: 90px;
+    line
+}
+.footer-block2{
+    display: inline-block;
+    margin-left: 90px;
+}
+.footer-nav{
+    display: inline-block;
+    line-height: 25px;
+    padding-left: 150px;
+    margin-top: 40px;
+}
+
+.footer-block{
+    display: inline-block;
+}
+.logo{
+    display: inline-block;
+    margin-left: 290px;
+    
+    
+}
+.container3{
+    height: 214px;
+    margin-top: 50px;
+    background-color: #A6ADB4;
+    
+}
